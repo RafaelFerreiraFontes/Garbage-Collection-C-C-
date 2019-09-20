@@ -7,9 +7,10 @@ Tutorial:
 
 Para utilizar a biblioteca deve-se primeiro incluir a biblioteca memoria.hpp e depois utilizar a estrutura de dados GCtype<(defini o tipo de dado)>:
   
-GCtype<tipo>
+GCtype< tipo >
   
 Campos:
+
 tipo *ed : ponteiro para àrea de memória da estrutura.
 
 Funções internas:
