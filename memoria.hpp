@@ -40,6 +40,7 @@ struct GCtype
             {
                 _atualizarED(ed,false);
                 ed = a;
+                _atualizarED(ed,true);
             }
        }
        else
